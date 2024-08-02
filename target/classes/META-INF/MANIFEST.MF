@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: atulp12
+Build-Jdk: 22.0.1
+Implementation-Title: spring-boot-backend
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.mobis
+Implementation-URL: 
+Created-By: Maven Integration for Eclipse
+
